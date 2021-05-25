@@ -1,7 +1,7 @@
 # Programming 2 Group Project: The Isle of Laeso
 This is our group project for Programming 2. We wanted to make a Catan style board game where you are stranded on an island with rivals and you are racing to survive and develop. 
 
-![TheIsleOfLaeso](https://github.com/Bamboo72/Programming2GroupProject1/blob/main/res/BackgroundBoard.png)
+![TheIsleOfLaeso](https://github.com/bran214/Programming2GroupProject1/blob/main/res/BackgroundBoard.png)
 
 When the game starts out every player is on their own part of the Isle of Laeso. In turn they each roll the die, move, and collect resources. Once enough resources are gathered players can build structures such as storehouses, forts, or even ports. The main goal of the game is to collect enough resources to build a port and survive the sea voyage off the island, but there are a few different ways to win. It's a race against the other players to survive the Isle of Laeso!
 
@@ -29,7 +29,7 @@ There are multiple ways to win. You could escape the island, collect enough magi
 
 ## Download Instructions:
 
-Download the zip file [here](https://github.com/Bamboo72/Programming2GroupProject1/raw/main/GroupProject1.zip). Extract the contents, and run the jar file.
+Download the zip file [here](https://github.com/bran214/Programming2GroupProject1/raw/main/GroupProject1.zip). Extract the contents, and run the jar file.
 
 ## Year 2 Concepts: 
 - GUI
@@ -43,6 +43,6 @@ Download the zip file [here](https://github.com/Bamboo72/Programming2GroupProjec
 - Ternary Statements
 
 ## Documentation: 
-![ClassDiagram](https://github.com/Bamboo72/Programming2GroupProject1/blob/main/ConceptArt/GroupProjectClassDiagram.png)
-![IslandSurvivalIdea](https://github.com/Bamboo72/Programming2GroupProject1/blob/main/ConceptArt/Isle%20of%20Laeso.jpg)
+![ClassDiagram](https://github.com/bran214/Programming2GroupProject1/blob/main/ConceptArt/GroupProjectClassDiagram.png)
+![IslandSurvivalIdea](https://github.com/bran214/Programming2GroupProject1/blob/main/ConceptArt/Isle%20of%20Laeso.jpg)
 
